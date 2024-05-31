@@ -1,0 +1,26 @@
+{
+  "username": "kevintest9",
+  "password": "prueba1234",
+  "title" : "Mr.",
+  "email": "kevin_test9@test.com",
+  "birthday": {
+    "day": "31",
+    "month": "12",
+    "year": "1992"
+  },
+  "firstName": "Kevin",
+  "lastName": "Suarez",
+  "address": "ST. Test, test, 4, test",
+  "country": "Canada",
+  "state": "Asturias",
+  "city": "Aviles",
+  "zipCode": "33402",
+  "mobileNumber": "666666666",
+  "payment": {
+    "nameOnCard": "Kevin Suarez",
+    "cardNumber": 666666666,
+    "cvc": 999,
+    "expirationMonth": 11,
+    "expirationYear": 2029
+  }
+}
